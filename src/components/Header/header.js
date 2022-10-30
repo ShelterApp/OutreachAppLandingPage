@@ -25,12 +25,15 @@ const Header = () => {
                             {/* Collect the nav links, forms, and other content for toggling */}
                             <div className="navbar-collapse collapse" id="myNavbar">
                                 <ul className="nav navbar-nav navbar-right">
-                                    <li className="active"><a className="page-scroll" href="#hero">WHAT</a></li>
-                                    <li><a className="page-scroll" href="#features">DO</a></li>
-                                    <li><a className="page-scroll" href="#pricing">WE</a></li>
-                                    <li><a className="page-scroll" href="#faqs">WANT</a></li>
-                                    <li><a className="page-scroll" href="#news">HERE</a></li>
-                                    <li><a className="page-scroll" href="#contact">???</a></li>
+                                    <li className="active"><a className="page-scroll" href="#hero">Home</a></li>
+                                    <li><a className="page-scroll" href="#about">About</a></li>
+                                    <li><a className="page-scroll" href="#features">Features</a></li>
+                                    <li><a className="page-scroll" href="#impact">Impact</a></li>
+                                    <li><a className="page-scroll" href="#screenshots">Screenshots</a></li>
+                                    <li><a className="page-scroll" href="#feedbakc">Feedback</a></li>
+                                    <li><a className="page-scroll" href="#volunteer">Volunteer</a></li>
+                                    <li><a className="page-scroll" href="#donate">Donate</a></li>
+                                    <li><a className="page-scroll" href="#contact">Contact</a></li>
                                 </ul>
                             </div>
 

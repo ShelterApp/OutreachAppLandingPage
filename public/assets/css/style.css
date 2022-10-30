@@ -969,6 +969,13 @@ SECTION MARGIN
     display: block;
 }
 
+@media screen and (min-width: 992px) {
+    .navbar-brand {
+        padding: 0 0 0;
+        padding-left: 15px;
+    }
+} 
+
 /* Menu links */
 .navbar .nav.navbar-nav li a {
     color: #fff;
