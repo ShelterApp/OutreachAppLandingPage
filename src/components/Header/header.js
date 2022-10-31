@@ -30,7 +30,7 @@ const Header = () => {
                                     <li><a className="page-scroll" href="#features">Features</a></li>
                                     <li><a className="page-scroll" href="#impact">Impact</a></li>
                                     <li><a className="page-scroll" href="#screenshots">Screenshots</a></li>
-                                    <li><a className="page-scroll" href="#feedbakc">Feedback</a></li>
+                                    <li><a className="page-scroll" href="#feedback">Feedback</a></li>
                                     <li><a className="page-scroll" href="#volunteer">Volunteer</a></li>
                                     <li><a className="page-scroll" href="#donate">Donate</a></li>
                                     <li><a className="page-scroll" href="#contact">Contact</a></li>

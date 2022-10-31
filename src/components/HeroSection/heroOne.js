@@ -1,8 +1,8 @@
 import React from "react";
 
 let initData ={
-  heading: "Awesome App Landing Page",
-  content: "Our software platform and custom development allow healthcare institutions to create comprehensive cross-platform solutions that ensure positive patient experiences.",
+  heading: "Outreach App",
+  content: "Our application allows outreach services to better disperse and supply resources to the unhoused community.",
   image:    "/img/waves-shape.svg",
   sliderImage: "/img/iphone-x-frame.png",
 }

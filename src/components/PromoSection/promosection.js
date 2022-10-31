@@ -25,7 +25,7 @@ class PromoSection extends React.Component {
     return (
       <div>
         {/* start promo section */}
-        <section className="promo-section ptb-90">
+        <section id="about" className="promo-section ptb-90">
           <div className="promo-section-wrap">
             <div className="container">
               <div className="row">
