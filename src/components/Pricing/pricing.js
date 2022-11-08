@@ -25,7 +25,7 @@ class Pricing extends React.Component {
         return(
             <div>
                 {/* start pricing */}
-                <section id="pricing" className="pricing-section ptb-90">
+                <section id="screenshots" className="pricing-section ptb-90">
                 <div className="pricing-section-wrap">
                     <div className="container">
                         <div className="row">

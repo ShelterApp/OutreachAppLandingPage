@@ -23,7 +23,7 @@ class Faq extends Component{
 
     render(){
         return(
-            <section id="faqs" className="faq-section ptb-90">
+            <section id="volunteer" className="faq-section ptb-90">
             <div className="faq-section-wrap">
                 <div className="container">
                     <div className="row">

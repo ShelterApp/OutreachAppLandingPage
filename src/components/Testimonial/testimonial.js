@@ -64,7 +64,7 @@ class Testimonial extends Component {
 
     render() {
         return (
-            <section className="testimonial-section bg-secondary ptb-90">
+            <section id="feedback" className="testimonial-section bg-secondary ptb-90">
                 <div className="testimonial-wrap">
                     <div className="container">
                         <div className="row">

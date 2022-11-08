@@ -30,7 +30,7 @@ class Download extends Component{
 
     render(){
         return(
-            <section className="download-section" style={bgStyle}>
+            <section id="donate" className="download-section" style={bgStyle}>
             <div className="container">
                 <div className="row">
                     <div className="col-md-5 hidden-sm">

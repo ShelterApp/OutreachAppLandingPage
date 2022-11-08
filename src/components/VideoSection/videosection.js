@@ -10,7 +10,7 @@ class VideoSection extends React.Component {
         return (
             <div>
                 {/* start app video section */}
-                <div id="video-app" className="video-app-1"
+                <div id="impact" className="video-app-1"
                     style={bgStyle}>
                     <div className="overlay-1">
                         <div className="container">
